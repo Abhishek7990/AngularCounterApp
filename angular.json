@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "counter-app"
+  "defaultProject": "counter-app",
+  "cli": {
+    "analytics": "3428e820-fa31-4fac-addd-918802570f94"
+  }
 }
